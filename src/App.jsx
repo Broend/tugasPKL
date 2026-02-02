@@ -309,12 +309,8 @@ const Home = () => {
 const About = () => {
   const anggota = [
     {
-      nomor: "A1",
-      nama: "Putriiiii",
-    },
-    {
-      nomor: "A1",
-      nama: "Putriiiii",
+      nomor: "1",
+      nama: "Silvia putri Ramadyanti",
     },
   ];
   return (
